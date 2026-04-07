@@ -15,7 +15,7 @@
 
 | No. | Date | Presenter | Review | Paper | Link |
 | --- | --- | --- | --- | --- | --- |
-| 1 | - | - | - | - | - |
+| 1 | 2026-04-07 | 김주영 | [Notion](https://www.notion.so/DiffuScene-Denoising-Diffusion-Models-for-Generative-Indoor-Scene-Synthesis-33a0832346148091841cdbd000fabce4?source=copy_link) | [DiffuScene](https://arxiv.org/abs/2303.14207) | [GitHub](https://github.com/tangjiapeng/DiffuScene) |
 
 ## Paper Survey
 
