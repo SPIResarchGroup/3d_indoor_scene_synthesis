@@ -15,8 +15,10 @@
 
 | No. | Date | Presenter | Review | Paper | Link |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-04-07 | 김주영 | [Notion](https://www.notion.so/DiffuScene-Denoising-Diffusion-Models-for-Generative-Indoor-Scene-Synthesis-33a0832346148091841cdbd000fabce4?source=copy_link) | [DiffuScene](https://arxiv.org/abs/2303.14207) | [GitHub](https://github.com/tangjiapeng/DiffuScene) |
+| 1 | 2026-04-07 | 김주영 | [PDF](./assets/1.pdf) | [DiffuScene](https://arxiv.org/abs/2303.14207) | [GitHub](https://github.com/tangjiapeng/DiffuScene) |
 | 2 | 2026-04-14 | 김혜빈 | [PDF](./assets/2.pdf) | [NeRF](https://arxiv.org/abs/2003.08934) | [GitHub](https://github.com/yenchenlin/nerf) |
+| 3 | 2026-04-21 | 김주영 | [PDF](./assets/3.pdf) | [SceneGraphNet](https://arxiv.org/abs/1907.00697) | [GitHub](https://github.com/yzhou359/3DIndoor-SceneGraphNet) |
+| 4 | 2026-04-28 | 김혜빈 | [PDF](./assets/4.pdf) | [Text2NeRF](https://arxiv.org/pdf/2305.11588) | [GitHub](https://github.com/eckertzhang/Text2NeRF) |
 
 ## Paper Survey
 
